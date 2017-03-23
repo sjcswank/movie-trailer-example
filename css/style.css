@@ -1,0 +1,40 @@
+body {
+  padding-top: 50px;
+}
+
+.image {
+
+}
+
+.video {
+    padding: 50px;
+}
+
+.video h2 {
+    text-align: center;
+    font-family: 'Special Elite', cursive;
+    line-height: 1.5;
+}
+
+.color1 {
+    color: #7D5FA7;
+}
+
+.color2 {
+    color: #A6474F;
+}
+
+.color3 {
+    color: #A0AD58;
+}
+
+h3 {
+    text-align: justify;
+    font-family: 'Inconsolata', monospace;
+}
+
+p {
+    text-align: justify;
+    font-family: 'Inconsolata', monospace;
+    font-size: 18px;
+}
